@@ -16,6 +16,8 @@
         <kda-runtime.version>1.1.0</kda-runtime.version>
         <beam.version>2.23.0</beam.version>
         <jackson.version>2.10.2</jackson.version>
+        <flink.version>1.8.2</flink.version>
+        <flink.version.minor>1.8</flink.version.minor>
     </properties>
 
     <dependencyManagement>
